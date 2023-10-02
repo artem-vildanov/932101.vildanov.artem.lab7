@@ -29,7 +29,8 @@
 }
 
 .controlPanel__numInput {
-
+    border: 1px solid rgb(187, 187, 187);
+    border-radius: 5px;
 }
 
 .controlPanel__btnsContainer {
